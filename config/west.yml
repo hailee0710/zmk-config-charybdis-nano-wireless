@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/petejohanson
     - name: inorichi
-      url-base: https://github.com/inorichi
+      url-base: https://github.com/charlesmst # fork of inorichi
   projects:
     - name: zmk
       remote: zmkfirmware
