@@ -7,7 +7,7 @@
 
 - Nice!nano adapter PCB: I used the one from https://github.com/olidacombe/Elite-C-holder (there's [another one](https://github.com/olidacombe/Elite-C-holder), which allows using external power switches)
 - pmw3610 sensor: [aliexpress](https://fr.aliexpress.com/item/1005006913778101.html)
-- Custom adapter bottom, because the sensor pcb is not the same size as bastard kb's. I made [this one](./assets/adapter_BTU_bottom_smaller_pmw3610.stl) (made from BTU mod adapter, I just added some mounting holes). Will need m2 inserts to fix sensor pcb onto.
+- Custom adapter bottom, because the sensor pcb is not the same size as bastard kb's. I made [this one](./assets/adapter_BTU_bottom_smaller_pmw3610.stl) (made from BTU mod adapter, I just added some mounting holes). Will need M2 inserts to fix sensor pcb onto.
 
 ### Wiring
 
